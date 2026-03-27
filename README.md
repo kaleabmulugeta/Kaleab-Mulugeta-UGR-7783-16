@@ -1,0 +1,1 @@
+Each task has a screenshot of the app and the tree in the lib directory along with the main.dart file
